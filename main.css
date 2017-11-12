@@ -18,3 +18,37 @@ button {
 	vertical-align: top;
 	padding: 7px 10px;
 }
+
+li {
+	list-style: none;
+}
+
+
+.wiki-entry {
+	display: inline-block;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 15px;
+	margin-bottom: 25px;
+	border: 1px solid;
+}
+
+.wiki-entry h1 {
+	margin-top: 0;
+}
+
+.wiki-entry img {
+	width: 250px;
+	margin-right: 15px;
+	float: left;
+}
+
+.wiki-entry a {
+	text-decoration: none;
+}
+
+.loader {
+	margin-top: 100px;
+	width: 300px;
+	display: none;
+}
