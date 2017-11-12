@@ -1,0 +1,20 @@
+main {
+	padding: 25px;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+input[type="text"] {
+	font-size: 1.5rem;
+	font-family: open-sans;
+	color: #737373;
+	width: 300px;
+	height: 30px;
+	padding: 3px;
+}
+
+button {
+	height: 40px;
+	vertical-align: top;
+	padding: 7px 10px;
+}
